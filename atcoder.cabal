@@ -3,7 +3,6 @@ name:               atcoder
 version:            0.1.0.0
 author:             yoshitsugu
 maintainer:         yoshitsugu@users.noreply.github.com
-extra-source-files: CHANGELOG.md
 license:            MIT
 
 executable x201912-h
